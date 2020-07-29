@@ -12,5 +12,5 @@ IRIS dataset based xgboost
 
 ## 코드 다운로드
 
-* IRIS 데이터를 이용한 XGBoost: [[colab](https://colab.research.google.com/github/HeewonChung92/IRIS_xgboost/blob/master/IRIS_xgboost.ipynb)]
+* IRIS 데이터를 이용한 XGBoost: [[colab](https://colab.research.google.com/github/HeewonChung92/BAMI_Lecture/blob/master/IRIS_xgboost.ipynb)]
 
